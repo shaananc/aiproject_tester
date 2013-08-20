@@ -1,0 +1,7 @@
+6
+B - - B B W
+B X B - - -
+X B - B - B
+- - B X W -
+- X B X X B
+- - - W - W
