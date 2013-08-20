@@ -1,7 +1,7 @@
 6
-W W - B - B
-- - B W B -
-B X B W W -
-B B X W - B
-B - X - B W
-- - - B - B
+X B - - - -
+B - - B X -
+W - B - - -
+- - - - W -
+B - - - - -
+W B - - B -
